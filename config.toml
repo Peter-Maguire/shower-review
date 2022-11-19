@@ -1,0 +1,4 @@
+baseURL = 'https://shower-review.com/'
+languageCode = 'en-gb'
+title = 'Shower Review'
+theme = 'papermod'
