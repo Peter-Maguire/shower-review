@@ -12,6 +12,7 @@ draft: false
 | Mechanism   | ⭐⭐⭐⭐ |
 | Environment | ⭐⭐⭐⭐⭐ |
 
+
 The showers here are great, there are plenty available and the pressure and temperature are great even at peak times.
 The mechanism is very sensitive, however, you only need to move it a tiny bit to get from freezing cold to far too hot.  
 
