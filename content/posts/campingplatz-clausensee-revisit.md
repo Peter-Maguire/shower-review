@@ -1,6 +1,6 @@
 ---
 title: "Campingplatz Clausensee, Waldfischbach-Burgalben (Revisit)"
-date: 2026-07-18T17:24:00Z
+date: 2026-07-18T00:24:00Z
 draft: false
 ---
 
